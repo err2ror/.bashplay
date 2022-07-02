@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "nodemon index.jsx"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "whitespace": "^1.1.7"
+  }
+}

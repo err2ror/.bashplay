@@ -1,0 +1,2 @@
+Name=modinstall
+Exec=git clone https://github.com/orsoxi/modjs.share/
