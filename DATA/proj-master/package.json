@@ -1,0 +1,22 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "description": "ggg",
+  "main": "index.js",
+  "scripts": {
+    "test": "rundev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hello"
+  },
+  "keywords": [
+    "h"
+  ],
+  "author": "orsoxii",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
