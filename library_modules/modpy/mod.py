@@ -1,14 +1,16 @@
 import math
 def avg(a, b):
-    return((a + b) / 2)
+    outa = ((a + b) / 2)
+    return(str(outa))
 def calc(a, b, c):
     if b == "+":
-        return(a + c)
+        outa = a + c
     if b == "-":
-        return(a - c)
+        outa = a - c
     if b == "/":
-        return(a / c)
+        outa = a / c
     if b == "mod":
-        return(a % c)
+        outa = a % c
     if b == "^":
-        return(a ** c)
+        outa = a ** c
+    return(str(outa))

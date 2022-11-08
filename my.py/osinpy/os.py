@@ -1,4 +1,4 @@
-mport random
+import random
 username = input("PyShell Signup: ")
 input(f"{username} password: ")
 direcs = {
